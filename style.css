@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to right, rgba(190, 12, 12, 0), rgb(124, 126, 42));
+}
+
+.dum{
+    float: right;
+}
+.par-cont{
+    overflow: auto;
+}
+.h1{
+    text-align: center ;
+    background-color: rgb(126, 126, 21);
+}
+
+nav ul li{
+    color: white;
+    display: inline-block;
+    background-color: rgb(126, 126, 21);
+}
+.di{
+    background-color:  rgb(88, 88, 23);;
+}
+.H{
+    text-align: center;
+    color: brown;
+}
+.div-box{
+    background-color: white;
+    width: 700px;
+    height: auto;
+    margin: 50px auto 50px auto;
+    text-align: center;
+    
+}
+.div-H{
+    background-color: yellow;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+    display: inline-block;
+    
+}
+.h2{
+    text-align:left ;
+}
